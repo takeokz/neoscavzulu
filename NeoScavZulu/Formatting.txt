@@ -1,0 +1,59 @@
+To be edited in the future.
+
+NSZDict: Where most conditions, battlemodes and attackmodes are going to be added.
+
+NSZMisc: Most generic crafting materials, miscellaneous items end up here.
+
+NSZAid: Food related items are placed here.
+
+NSZMelee: Melee weapons are placed here. sorted in orders of 1 handed blunt, sharp and so on. Might be reworked into 1 file due to the scarcity of melee weapons.
+
+NSZGuns: Where guns are located. Each attack is put inside each respective caliber file.
+22 LR attacks in NSZG22 and so on.
+NSZGAmmo loaded first, separated from Miscellaneous items so it does not get mixed up.
+
+NSZFashion: Clothing is placed here. Should be loaded second last so it does not get overlapped by guns, melee and crafting items.
+
+NSZChar: NPC related things go here.
+
+NSZStory: Where most story detailed stuff, and map related stuff should be written
+
+NSZCrafting: Should be put at the end for all crafting items.
+
+NSZTreasure: All treasures should be put here. Last on the load order so it doesn't skip anything.
+
+
+getMods Format
+
+NSZDict
+NSZMisc
+NSZAid
+NSZMelee
+NSZGuns
+>
+NSZGAmmo
+NSZG22
+NSZG9
+NSZG45
+NSZG357
+NSZG556
+NSZG300
+NSZG308
+NSZG3006
+NSZG20
+NSZG12
+
+NSZFashion
+>
+NSZFHead
+NSZFTorso
+NSZFLegs
+NSZFBags
+
+NSZCrafting
+NSZTreasure
+
+NSZOverride -> 1 file
+NSZ_NSEOverride -> 4 files to be overwritten
+
+Total 23 files. Avg load time (about 30s to 1min?)
