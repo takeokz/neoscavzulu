@@ -1,6 +1,6 @@
-Neo Scavenger ZULU<br>
+<h1>Neo Scavenger ZULU<br></h1>
 
-A comprehensive addition to a lot of content in game, to be sideloaded with NSE. In case NSE is not enough, here's more content for you!
+<h2>A comprehensive addition to a lot of content in game, to be sideloaded with NSE. In case NSE is not enough, here's more content for you!</h2>
 
 v0.05 below: https://discord.com/channels/711621164421742602/1316769405975269397/1316830470608261151<br>
 
