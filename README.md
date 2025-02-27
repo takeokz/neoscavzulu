@@ -1,8 +1,9 @@
-Neo Scavenger ZULU
+Neo Scavenger ZULU<br>
 
 A comprehensive addition to a lot of content in game, to be sideloaded with NSE. In case NSE is not enough, here's more content for you!
 
-v0.05 below: https://discord.com/channels/711621164421742602/1316769405975269397/1316830470608261151
+v0.05 below: https://discord.com/channels/711621164421742602/1316769405975269397/1316830470608261151<br>
+
 Post v0.05 updates will be updated into this github for ease of access.
 
 To do list:<br>
